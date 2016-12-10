@@ -1,0 +1,6 @@
+c:\users\mimka\documents\visual studio 2013\Projects\DataType\Task01\bin\Debug\Task01.exe.config
+c:\users\mimka\documents\visual studio 2013\Projects\DataType\Task01\bin\Debug\Task01.exe
+c:\users\mimka\documents\visual studio 2013\Projects\DataType\Task01\bin\Debug\Task01.pdb
+c:\users\mimka\documents\visual studio 2013\Projects\DataType\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
+c:\users\mimka\documents\visual studio 2013\Projects\DataType\Task01\obj\Debug\Task01.exe
+c:\users\mimka\documents\visual studio 2013\Projects\DataType\Task01\obj\Debug\Task01.pdb
