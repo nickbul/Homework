@@ -1,0 +1,6 @@
+c:\users\nikolay baychev\documents\visual studio 2013\Projects\Homework\Loops\bin\Debug\Loops.exe.config
+c:\users\nikolay baychev\documents\visual studio 2013\Projects\Homework\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+c:\users\nikolay baychev\documents\visual studio 2013\Projects\Homework\Loops\bin\Debug\Loops.exe
+c:\users\nikolay baychev\documents\visual studio 2013\Projects\Homework\Loops\bin\Debug\Loops.pdb
+c:\users\nikolay baychev\documents\visual studio 2013\Projects\Homework\Loops\obj\Debug\Loops.exe
+c:\users\nikolay baychev\documents\visual studio 2013\Projects\Homework\Loops\obj\Debug\Loops.pdb
