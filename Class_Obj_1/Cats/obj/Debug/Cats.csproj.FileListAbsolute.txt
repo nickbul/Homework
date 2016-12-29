@@ -1,0 +1,6 @@
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_1\Cats\bin\Debug\Cats.exe.config
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_1\Cats\bin\Debug\Cats.exe
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_1\Cats\bin\Debug\Cats.pdb
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_1\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_1\Cats\obj\Debug\Cats.exe
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_1\Cats\obj\Debug\Cats.pdb

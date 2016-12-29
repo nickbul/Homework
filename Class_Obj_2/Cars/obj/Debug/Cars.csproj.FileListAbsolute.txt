@@ -1,0 +1,6 @@
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_2\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_2\Cars\bin\Debug\Cars.exe.config
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_2\Cars\bin\Debug\Cars.exe
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_2\Cars\bin\Debug\Cars.pdb
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_2\Cars\obj\Debug\Cars.exe
+c:\users\niko\documents\visual studio 2017\Projects\Class_Obj_2\Cars\obj\Debug\Cars.pdb

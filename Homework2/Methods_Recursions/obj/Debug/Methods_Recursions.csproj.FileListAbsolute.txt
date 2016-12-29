@@ -1,0 +1,6 @@
+c:\users\niko\documents\visual studio 2017\Projects\Homework2\Methods_Recursions\bin\Debug\Methods_Recursions.exe.config
+c:\users\niko\documents\visual studio 2017\Projects\Homework2\Methods_Recursions\bin\Debug\Methods_Recursions.exe
+c:\users\niko\documents\visual studio 2017\Projects\Homework2\Methods_Recursions\bin\Debug\Methods_Recursions.pdb
+c:\users\niko\documents\visual studio 2017\Projects\Homework2\Methods_Recursions\obj\Debug\Methods_Recursions.csprojResolveAssemblyReference.cache
+c:\users\niko\documents\visual studio 2017\Projects\Homework2\Methods_Recursions\obj\Debug\Methods_Recursions.exe
+c:\users\niko\documents\visual studio 2017\Projects\Homework2\Methods_Recursions\obj\Debug\Methods_Recursions.pdb
