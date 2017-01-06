@@ -1,0 +1,6 @@
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_8\bin\Debug\Strings_8.exe.config
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_8\bin\Debug\Strings_8.exe
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_8\bin\Debug\Strings_8.pdb
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_8\obj\Debug\Strings_8.csprojResolveAssemblyReference.cache
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_8\obj\Debug\Strings_8.exe
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_8\obj\Debug\Strings_8.pdb

@@ -1,0 +1,5 @@
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_5\bin\Debug\Strings_5.exe.config
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_5\bin\Debug\Strings_5.exe
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_5\bin\Debug\Strings_5.pdb
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_5\obj\Debug\Strings_5.exe
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_5\obj\Debug\Strings_5.pdb

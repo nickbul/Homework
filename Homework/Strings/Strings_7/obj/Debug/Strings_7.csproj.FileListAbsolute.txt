@@ -1,0 +1,6 @@
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_7\bin\Debug\Strings_7.exe.config
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_7\bin\Debug\Strings_7.exe
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_7\bin\Debug\Strings_7.pdb
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_7\obj\Debug\Strings_7.csprojResolveAssemblyReference.cache
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_7\obj\Debug\Strings_7.exe
+C:\Users\Niko\Documents\Visual Studio 2017\Projects\Strings\Strings_7\obj\Debug\Strings_7.pdb
