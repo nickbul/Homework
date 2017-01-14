@@ -1,0 +1,6 @@
+c:\users\niko\documents\visual studio 2017\Projects\Solution2\Data_structures\bin\Debug\Data_structures.exe.config
+c:\users\niko\documents\visual studio 2017\Projects\Solution2\Data_structures\bin\Debug\Data_structures.exe
+c:\users\niko\documents\visual studio 2017\Projects\Solution2\Data_structures\bin\Debug\Data_structures.pdb
+c:\users\niko\documents\visual studio 2017\Projects\Solution2\Data_structures\obj\Debug\Data_structures.csprojResolveAssemblyReference.cache
+c:\users\niko\documents\visual studio 2017\Projects\Solution2\Data_structures\obj\Debug\Data_structures.exe
+c:\users\niko\documents\visual studio 2017\Projects\Solution2\Data_structures\obj\Debug\Data_structures.pdb
