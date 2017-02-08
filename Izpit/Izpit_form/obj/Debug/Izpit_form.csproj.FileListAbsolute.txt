@@ -1,0 +1,9 @@
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\bin\Debug\Izpit_form.exe.config
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\bin\Debug\Izpit_form.exe
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\bin\Debug\Izpit_form.pdb
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\obj\Debug\Izpit_form.csprojResolveAssemblyReference.cache
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\obj\Debug\Izpit_form.Form1.resources
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\obj\Debug\Izpit_form.Properties.Resources.resources
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\obj\Debug\Izpit_form.csproj.GenerateResource.Cache
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\obj\Debug\Izpit_form.exe
+c:\users\mimka\documents\visual studio 2017\Projects\Izpit\Izpit_form\obj\Debug\Izpit_form.pdb
